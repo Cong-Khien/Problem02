@@ -1,0 +1,27 @@
+Serial Number: vd1000
+Name: ngủ
+Price: 10000.0 $
+Type Of User: adults
+Content of video: slepp
+Quality of video: 4k
+Serial Number: vd0020000
+Name: ngủ tiếp
+Price: 999999.0 $
+Type Of User: children
+Content of video: sleep
+Quality of video: 2k
+Serial Number: book0000
+Name: dạy ngủ
+Price: 23.0 $
+Author: mori kogoro
+Content of video: dectetive
+Language: vietnammise
+Version: 1
+Serial Number: cabin01
+Name: tủ đựng sách
+Price: 90.0 $
+Type: tủ gỗ sách
+Material: gỗ
+Color: nâu
+Manufacturer: gỗHeight: 89.0cm, Width: 56.0cm, Length: 66.0cm
+Main Function: đựng sách
